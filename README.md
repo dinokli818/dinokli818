@@ -2,7 +2,7 @@
 - 👀 I’m passionate about coding and improving system efficiency through innovative strategies.
 - 🌱 Currently, I'm delving into the elasticity of resource management in distributed computing systems.
 - 💞️ I'm keen to collaborate with others who share my interest in this innovative field.
-- 📫 You can reach me at dinokli818@gmail.com, or check out my CV at [ my academic website](dinokli818.github.io).
+- 📫 You can reach me at dinokli818@gmail.com, or check out my CV at [ my academic website](http://dinokli818.github.io).
 - 😊 Fun Fact: My alias, Dinok, means 'Death' in the Dragon language of TESV: Skyrim! 
 
 <!---
