@@ -5,10 +5,6 @@
 
 <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
 
-
-
-### 👋 Brief Introduction
-
 - 🏫 I’m currently a master student on **<a href="https://www.hit.edu.cn/">Harbin Institute of Technology</a>**, majoring in **Computer Technology**
 - 🌱 My research interests include [*Distributed Stream Processing System*](https://github.com/dinokli818/), [*MLsystem*](https://github.com/dinokli818/) *and* [*MicroService*](https://github.com/dinokli818/), specializing in resource allocation and task scheduling.
 - 💞️ I'm keen to collaborate with others who share my interest in this innovative field.
